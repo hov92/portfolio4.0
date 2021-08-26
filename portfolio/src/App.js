@@ -13,7 +13,7 @@ function App(){
     <>
     <CssBaseline />
     {/* <Switch> */}
-    <Route exact path="/portfolio4.0" component={Home} />
+    <Route exact path="/" component={Home} />
     <Route path="/resume" component={Resume} />
     <Route path="/portfolio" component={Portfolio} />
     <Route path="/contacts" component={Contacts} />

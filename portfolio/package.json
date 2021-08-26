@@ -20,7 +20,7 @@
     "react-typed": "^1.2.0",
     "tsparticles": "^1.33.3"
   },
-  "homepage": ".",
+  "homepage": "/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
