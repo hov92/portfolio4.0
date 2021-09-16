@@ -81,7 +81,7 @@ const Navbar = () => {
             className={classes.menuSliderContainer}
             component="div"
             onClick={toggleSlider(slider, false)}>
-            <Button href=" http://localhost:3000/Portfoleo">
+            <Button href=" http://localhost:3000/">
                 <Avatar className={classes.avatar} src="https://avatars.githubusercontent.com/u/76871974?s=400&u=75bca61cd6c4fb87aef51c20c9c3517d1efe78cf&v=4" alt="Dwayne Moji" />
             </Button>
             <Divider />
