@@ -12,10 +12,6 @@ import {
     Typography
 } from "@material-ui/core"
 import Navbar from "./Navbar"
-// import project1 from "/Users/dwaynehovington/Desktop/Portfoleo/portfoleo/src/budgettracker.png"
-// import project2 from "/Users/dwaynehovington/Desktop/Portfoleo/portfoleo/src/BuddyFinderBanner.jpg"
-// import project3 from "/Users/dwaynehovington/Desktop/Portfoleo/portfoleo/src/GroGroGro.jpeg"
-// import project4 from "/Users/dwaynehovington/Desktop/Portfoleo/portfoleo/src/pypcopy.jpeg"
 
 
 const useStyles = makeStyles({
