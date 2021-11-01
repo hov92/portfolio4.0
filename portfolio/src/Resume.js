@@ -129,10 +129,10 @@ const Resume = () => {
                             Tools
                     </Typography>
                         <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                            React, Heroku, Express
+                            React, Angular, Express
                     </Typography>
                         <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
-                            useState & useEffect
+                            React-Router & NPM
                     </Typography>
 
                     </Box>
@@ -149,7 +149,7 @@ const Resume = () => {
                             Bootstrap, Material ui, Tailwinds
                     </Typography>
                         <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
-                            Javascript ES5/ES6 & JQuery 
+                            Javascript ES5/ES6, JQuery, Typescript 
                     </Typography>
 
                     </Box>
@@ -163,7 +163,7 @@ const Resume = () => {
                             Databases
                     </Typography>
                         <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                            MongoDB, MySQL, GraphQL
+                            MongoDB, Django, MySQL, 
                     </Typography>
                         <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
                             {/* Lorem20 */}
@@ -180,7 +180,7 @@ const Resume = () => {
                             tools
                     </Typography>
                         <Typography variant="body1" align="center" style={{ color: "tomato" }}>
-                        JSON Web Token, APIs, Apollo Client
+                        JSON Web Token, APIs, PyCharm
                     </Typography>
                         <Typography variant="subtitle1" align="center" style={{ color: "tan" }}>
                             {/* Lorem20 */}
