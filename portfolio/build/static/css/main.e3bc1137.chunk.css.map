@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,qEAAA,CACA,wBAAyB,CACzB,qBAAsB,CACtB,mBAAoB,CACpB,gBAEF","file":"main.e3bc1137.chunk.css","sourcesContent":["body{\n  background: url(../src/Portbg.jpg) no-repeat center center fixed;\n  -webkit-background: cover;\n  -moz-background: cover;\n  -o-background: cover;\n  background: cover;\n\n}"]}
