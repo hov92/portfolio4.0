@@ -85,16 +85,16 @@ const Portfolio = () => {
                             <CardMedia component="img" alt="Project3" height="140" image="https://goop-img.com/wp-content/uploads/2021/01/iStock-1157106624.jpg" />
                             <CardContent>
                                 <Typography gutterBottom variant="h5">
-                                    GroGroGro
+                                    SellIt!
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p">
-                                    web applications that ease the pain of remembering family household grocery list.
+                                    SellIt! An Ecommerce Website where users can buy items that are put on for sale from other users. This app was created using MERN stack framework. Once users create an account they are free to shop and pay for their item and will receive their receipt via email. Also users can message Admin to become a Seller of products.
                                 </Typography>
                             </CardContent>
                         </CardActionArea>
                         <CardActions>
 
-                            <Button size="small" color="primary" href="https://grogrogro.herokuapp.com/">
+                            <Button size="small" color="primary" href="https://sell--it.herokuapp.com/">
                                 Live Demo
     </Button>
                         </CardActions>
