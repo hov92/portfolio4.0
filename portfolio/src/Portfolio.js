@@ -65,7 +65,7 @@ const Portfolio = () => {
                                     Buddy Finder
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p">
-                                    Buddy Finder is a website designed to find loving homes for abandoned pets.
+                                    Buddy Finder is a website designed to find loving homes for abandoned pets. This website allows you to search for nearby animal shelters within the United States by inputting the ZIP code of your choice. The information returned includes: a map of the searched area with a list of rescue shelters. When you click on a rescue shelter, you'll be given the organization's name, their location, a website, and the shelter's email address.
                                 </Typography>
                             </CardContent>
                         </CardActionArea>
