@@ -111,7 +111,7 @@ const Portfolio = () => {
                                     Pick Your Poison
                                 </Typography>
                                 <Typography variant="body2" color="textSecondary" component="p">
-                                    Choose how to enjoy your night
+                                    Choose how to enjoy your night! User inputs their city and weather condition and the website will choose a alcoholic beverage with the recipe to make and enjoy.
                                 </Typography>
                             </CardContent>
                         </CardActionArea>
