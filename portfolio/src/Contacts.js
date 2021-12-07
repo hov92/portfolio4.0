@@ -4,6 +4,7 @@ import { TextField, Typography, Button, Grid, Box } from "@material-ui/core"
 // import SendIcon from "@material-ui/icons/Send"
 import Mail from '@material-ui/icons/Mail';
 import LinkedIn from '@material-ui/icons/LinkedIn';
+import ArticleIcon from '@mui/icons-material/Article';
 import GitHub from '@material-ui/icons/GitHub';
 import Navbar from "./Navbar"
 
@@ -82,6 +83,17 @@ const Contacts = () => {
                         >
                         <Mail />
                     </Button>
+
+                    <Button className={classes.button}
+                        variant="outlined"
+                        fullwidth={true}
+                        size="large"
+                        href="https://docs.google.com/document/d/19sMzAAO3XvRv5wyoBV8rAD4sH87xsLGG/edit?usp=sharing&ouid=113712017206958807147&rtpof=true&sd=true"
+                        >
+                        <ArticleIcon />
+                            RESUME
+                    </Button>
+
 
                     {/* <InputField fullwidth="true" label="Name" variant="outlined" inputProps={{ style: { color: "white" } }} margin="dense" size="medium" />
                     <br />

@@ -107,7 +107,7 @@ const Navbar = () => {
                         <IconButton onClick={toggleSlider("right", true)}>
                             <MenuIcon style={{ color: "tomato" }} />
                         </IconButton>
-                        <Typography variant="h5" style={{ color: "tan" }}>
+                        <Typography variant="h5" style={{ color: "tan" }} >
                             Dwayne's Portfolio
                     </Typography>
                         <MobileRightMenuSlider
